@@ -1,17 +1,8 @@
 ---
-name: effective_java_study
+name: Effective Java Study Issue
 about: ITEM에 대한 학습 내용을 작성합니다
 title: "[아이템 번호] 아이템 제목"
 labels: ''
-assignees: ''
-
----
-
----
-name: Effective Java Study Issue
-about: Effective Java 스터디 아이템 정리
-title: "[아이템 번호] 아이템 제목"
-labels: study
 assignees: ''
 
 ---
