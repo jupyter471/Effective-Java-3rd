@@ -25,9 +25,9 @@
 |------|----------|
 | 주보경 | [@jupyter471](https://github.com/jupyter471) | 
 | 신승용 | [@sso9594](https://github.com/sso9594) | 
-| 양준하 | [@dign552](https://github.com/dign552) |
+| 양준하 | [@Ori-Gui](https://github.com/Ori-Gui) |
 | 김유진 | [@yoojkim](https://github.com/yoojkim) |
-| 윤진 | [@](https://github.com/) |
+| 윤진 | [@ideasidus](https://github.com/ideasidus) |
 
 
 
